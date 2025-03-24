@@ -1,3 +1,9 @@
+
+
+![image](https://github.com/user-attachments/assets/dc1e1fbb-c8b6-4003-a262-5d3ccaaa1255)
+
+
+
 # MinimalBrowser
 
 A lightweight, security-focused web browser built with PyQt6 that minimizes resource usage while maintaining essential functionality.
@@ -36,7 +42,7 @@ A lightweight, security-focused web browser built with PyQt6 that minimizes reso
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/MinimalBrowser.git
+git clone https://github.com/visjble/eyebrow-sir.git
 cd MinimalBrowser
 
 # Install dependencies
