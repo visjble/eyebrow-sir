@@ -1,8 +1,6 @@
 
 
-![image](https://github.com/user-attachments/assets/dc1e1fbb-c8b6-4003-a262-5d3ccaaa1255)
-
-
+![image](https://github.com/user-attachments/assets/8bae7aa1-403f-4f9b-9a2f-4a2337abc134)
 
 # MinimalBrowser
 
